@@ -7,6 +7,13 @@
             "name": "nu-fluency",
             "source": { "source": "github", "repo": "zaynram/nu-fluency" }
         },
-        { "name": "scholar", "source": { "source": "github", "repo": "zaynram/scholar" } }
+        { 
+            "name": "scholar", 
+            "source": { "source": "github", "repo": "zaynram/scholar" } 
+        },
+        {
+            "name": "reasoning-protocols",
+            "source": { "source": "github", "repo": "zaynram/reasoning-protocols" }
+        }
     ]
 }
