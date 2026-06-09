@@ -1,6 +1,7 @@
 {
     "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
     "name": "ramda-cowork-marketplace",
+    "version": "0.1.0",
     "owner": { "name": "Zayn Ramdass", "email": "ramdasszayn@gmail.com" },
     "plugins": [
         {
