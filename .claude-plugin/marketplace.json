@@ -1,12 +1,12 @@
 {
     "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
     "name": "ramda-cowork-marketplace",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "owner": { "name": "Zayn Ramdass", "email": "ramdasszayn@gmail.com" },
     "plugins": [
         {
             "name": "nu-fluency",
-            "source": { "source": "github", "repo": "zaynram/nu-fluency" }
+            "source": { "source": "github", "repo": "zaynram/nu-fluency", "ref": "v0.4.0-alpha.1" }
         },
         { 
             "name": "scholar",
